@@ -101,3 +101,8 @@ ENV/
 
 *.zip
 *.pt
+.vscode/settings.json
+
+
+#DataSet
+data/*
